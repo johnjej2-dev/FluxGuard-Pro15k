@@ -1,2 +1,2 @@
-# FluxGuard-Pro15k
-AC Power Conditioner 
+The FluxGuard-Pro15k is a passive, inline power conditioning device engineered to isolate sensitive electronics and heavy appliances from asymmetric DC voltage bias present on public alternating current (AC) distribution lines. 
+FluxGuard-Pro15k safely counters magnetic core saturation in connected transformers and AC induction motors. This defense effectively eliminates structural mechanical buzzing, lowers parasitic thermal breakdown, and optimizes peak operating efficiency
