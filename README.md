@@ -1,18 +1,18 @@
-### Operating Instructions & Troubleshooting## Normal Operation
-The FluxGuard Pro 15K is a fully automated, passive device. Once energized, it functions instantly. You will notice an immediate, significant reduction or complete elimination of mechanical buzzing sounds radiating from nearby motor housings, refrigerators, compressor pumps, or large audio transformers.
+### Official Limited Warranty Guidelines One (1) Year Limited Warranty Coverage.
 
-Troubleshooting Checklist
+   FluxGuard-Pro15k Manufacturing warrants to the original retail purchaser that this product is free from defects in materials and manufacturing workmanship for a period of one (1) year from the documented date of purchase.
+   If a hardware failure occurs during the warranty period due to a structural component defect, FluxGuard will, at its sole discretion, either repair the unit using fresh, factory-tested components or replace the device with a brand-new unit free of charge.
 
-* Symptom: 
-   Connected appliance has no power.
-* Check Main Breaker: 
-   Verify that the 20A Type C breaker in your main panel has not tripped.
-   * Internal Fuse Blown:
-   The internal 20A fast-acting ceramic fuse may have sacrificed itself to protect your house from an external line surge or sudden appliance short circuit. 
-   Contact an authorized technician to safely discharge the capacitors and replace the fuse.
-* Symptom: 
-   Appliance loses power only after running for a long time.
-* Thermal Cutoff Tripped: 
-   The internal 75°C thermal switch has detected excessive heat on the rectifier clamp. 
-   This occurs if the device is overloaded beyond 2.5 HP or installed in an unventilated area. 
-   Allow the device 20 minutes to cool down; it will automatically reset itself.
+What is Explicitly Excluded from Warranty Coverage:
+This warranty is strictly voided under any of the following circumstances:
+
+   1. Incorrect Wiring or Reversal: 
+   Any damage resulting from improper wiring, loose terminal connections, or modifying the internal capacitor matrix configuration (including reversing the symmetrical polarity of the teams).
+   2. Overloading: 
+   Utilizing the device to power loads exceeding the maximum rated threshold (such as wiring it to a 3.0 HP or larger industrial motor, or running multiple high-draw appliances simultaneously on a single unit).
+   3. Unauthorized DIY Modifications: 
+   Opening the enclosure or altering internal solder paths without the direct supervision of an authorized factory technician.
+   4. External Electrical Events: 
+   Failure caused by direct lightning strikes, severe utility grid overvoltage spikes that bypass your home's main surge protection, or short circuits originating inside the connected appliance itself.
+   5. Environmental Damage: 
+   Failures due to water submersion, outdoor rain exposure without a protective weatherproof secondary housing, or physical impact dropping.
