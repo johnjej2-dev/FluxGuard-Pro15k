@@ -1,19 +1,5 @@
-### ELECTRICAL SPECIFICATIONS
-
-| Parameter | Specification |
-|---|---|
-| Nominal Input Voltage | 230 V AC |
-| Input Voltage Range | 180 V AC – 260 V AC (Adjust if your system has active regulation) |
-| Nominal Frequency | 60 Hz (Optimized for the Philippine Power Grid) |
-| Maximum Load Capacity | 15,000 Watts (15 kW) |
-| Maximum Rated Current | ~65.2 A @ 230V |
-| Voltage Regulation Accuracy | ±[e.g., 2% to 5%] (Delete line if strictly a passive filter) |
-| Efficiency | [e.g., >97%] at full load |
-| Response / Correction Time | [e.g., < 1 Cycle / < 20 milliseconds] |
-
-## 3. SURGE & NOISE PROTECTION
-
-* Surge Suppression Rating: [e.g., 3,000 Joules / 40,000 Amps maximum spike current]
-* Clamping Voltage: [e.g., 400V - 500V]
-* EMI/RFI Noise Attenuation: [e.g., 10dB to 55dB from 100 kHz to 10 MHz]
-* Protection Modes: Line-to-Neutral (L-N), Line-to-Ground (L-G), Neutral-to-Ground (N-G)
+### The FluxGuard Pro 15K is an inline, passive power conditioning device engineered to shield heavy household appliances and inductive motors from asymmetric DC voltage bias present on public alternating current (AC) lines.
+Utilizing an ultra-low ESR 15,000µF symmetrical capacitive matrix paired with an industrial-grade 50-Amp bridge rectifier clamp, the device safely counters magnetic core saturation in connected transformers and AC induction motors. This defense effectively:
+* Eliminates irritating mechanical structure-borne buzzing and humming.
+* Lowers parasitic thermal breakdown inside motor windings.
+* Optimizes peak operating efficiency, reducing wasted energy consumption by keeping appliances running cooler.
